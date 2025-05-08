@@ -1,3 +1,3 @@
 
 Author: John Zhou
-![Example screenshot](screenshot.png)
+![Example screenshot](Screenshot.png)
